@@ -1,0 +1,9 @@
+* Fully-functional puffles
+	Needs all postcard run-away IDs (there are a few missing)
+	Add remaining and complete unfinished handlers
+	Completely fix walking - puffles don't disappear from igloo when you start walking (you have to rejoin afterwards to see the effect)
+* Old mail system (Ignore this)
+* Fully-functional newspaper
+* Multiplayer games => "in Progress"
+* PSA mission system
+	Patch the PSA awards
